@@ -4,5 +4,5 @@ Designed For & Designed In Replit
 
 # Where To Execute
 
-Code Viewable Inside Here, Link For Running Project:
+Code Viewable Inside This Repo, Link For Running Project:
 https://replit.com/@KareemAlaiwat/Kineticode
