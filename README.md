@@ -11,8 +11,3 @@ Designed For & Designed In Replit
   <li>Shell Command Line</li>
   <li>Theme Colors</li>
 </ul>
-
-# Where To Execute
-
-Code Viewable Inside This Repo, Link For Running Project:
-https://replit.com/@KareemAlaiwat/Kineticode
